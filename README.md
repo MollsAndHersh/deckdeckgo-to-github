@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# DeckDeckGo To GitHub
 
-{{DECKDECKGO_DESCRIPTION}} 
+Push the source code of your presentation to GitHub 🔥 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/daviddalbusco4522/deckdeckgo-to-github/](https://beta.deckdeckgo.io/daviddalbusco4522/deckdeckgo-to-github/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/peterpeterparker/deckdeckgo-to-github
+cd deckdeckgo-to-github
 npm install
 ```
 
